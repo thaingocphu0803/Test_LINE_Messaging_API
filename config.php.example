@@ -1,0 +1,14 @@
+<?php
+// Messaging API
+define('OFFICIAL_ACCOUNT_ID', '');
+define('DOMAIN', '');
+define('CHANNEL_SECRET', '');
+define('CHANNEL_ACCESS_TOKEN', '');
+
+// MYSQL SERVER
+define('DB_ENGINE', '');
+define('DB_HOST', '');
+define('DB_PORT', '');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASSWORD', '');
