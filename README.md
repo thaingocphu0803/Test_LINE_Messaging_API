@@ -167,10 +167,10 @@ git clone https://github.com/thaingocphu0803/Test_LINE_Messaging_API.git .
 
 | Name  | Purpose  |
 | ------------ | ------------ |
-|OFFICIAL_ACCOUNT_ID|The official account ID obtained from the [Get Official Account ID](#get-official-account-id) section|
-|DOMAIN|The domain generated during the [Install Ngrok](#install-ngrok) section|
-|CHANNEL_SECRET|The Messaging API channel secret obtained from the [Get Channel Secret](#get-channel-secret) section|
-|CHANNEL_ACCESS_TOKEN|The Messaging API channel access token obtained from the [Get Channel Access Token](#get-channel-access-token) section|
+|OFFICIAL_ACCOUNT_ID|The official account ID obtained from the [Get Official Account ID](#3-get-official-account-id) section|
+|DOMAIN|The domain generated during the [Install Ngrok](#1-install-ngrok) section|
+|CHANNEL_SECRET|The Messaging API channel secret obtained from the [Get Channel Secret](#4-get-channel-secret) section|
+|CHANNEL_ACCESS_TOKEN|The Messaging API channel access token obtained from the [Get Channel Access Token](#5-get-channel-access-token) section|
 |DB_ENGINE|The database engine being used|
 |DB_HOST|The host address where your database is running|
 |DB_PORT|The port number where your database service is running|
